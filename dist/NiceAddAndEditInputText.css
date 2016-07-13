@@ -1,0 +1,37 @@
+.addAndEditInputText .delete-button {
+  position: relative;
+  top: 27%;
+  background-position-x: center;
+  background-position-y: center;
+  height: 20px;
+  width: 17px;
+  margin-right: 10px;
+  margin-left: 8px;
+}
+.addAndEditInputText .delete-button:hover {
+  background-position-x: center;
+  background-position-y: center;
+}
+.addAndEditInputText .invalidInput.ng-touched {
+  border: 1px solid #d82132!important;
+}
+.addAndEditInputText .edit-button {
+  position: relative;
+  top: 27%;
+  background-position-x: center;
+  background-position-y: center;
+  height: 20px;
+  width: 17px;
+}
+.addAndEditInputText .edit-button:hover {
+  background-position-x: center;
+  background-position-y: center;
+}
+.addAndEditInputText .objectName {
+  display: inline-block;
+  margin-top: 10px;
+  width: 63%;
+}
+.addAndEditInputText .containerButtons {
+  display: inline-block;
+}
